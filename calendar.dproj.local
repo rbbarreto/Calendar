@@ -1,9 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<BorlandProject>
-	<Transactions>
-    <Transaction>2021/05/10 18:57:57.000.603,=C:\Users\rbbar\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2021/05/10 20:56:08.000.795,C:\Users\rbbar\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\rbbar\OneDrive\Documentos\Embarcadero\Studio\Projects\Calendar\uCalendar.pas</Transaction>
-    <Transaction>2021/05/10 20:56:08.000.795,C:\Users\rbbar\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\rbbar\OneDrive\Documentos\Embarcadero\Studio\Projects\Calendar\uCalendar.dfm</Transaction>
-    <Transaction>2021/05/10 20:56:12.000.750,C:\Users\rbbar\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\rbbar\OneDrive\Documentos\Embarcadero\Studio\Projects\Calendar\calendar.dproj</Transaction>
-  </Transactions>
-</BorlandProject>
